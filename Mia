@@ -54,8 +54,8 @@
 </head>
 <body>
     <audio id="musica" loop>
-        <source src="tu_musica.mp3" type="audio/mpeg">
-        Tu navegador no soporta el audio.
+        <source src="Yukun - AQUÍ ESTARÉ.mp3" type="audio/mpeg">
+
     </audio>
     
     <div class="container" id="inicio">
